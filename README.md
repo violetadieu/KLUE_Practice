@@ -7,3 +7,5 @@
 <h3>Named Entity Recognition<br><br></h3>
 <h3>Relation Extraction<br><br></h3>
 <h3>Dependency Parsing<br><br></h3>
+<h3>Machine Reading Comprehension<br><br></h3>
+<h3>Dialogue State Tracking<br><br></h3>
