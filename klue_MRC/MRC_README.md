@@ -6,3 +6,5 @@
 |모델|tokenizer|data|epoch|F1-score|
 |------|---|---|---|---|
 |klue/roberta-large|klue/roberta-large|KLUE-benchmark-dataset-mrc|3|NA|
+|klue/roberta-large|klue/roberta-large|KLUE-benchmark-dataset-mrc|10|NA|
+
