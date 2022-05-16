@@ -15,6 +15,7 @@
 |모델|tokenizer|data|epoch|em-score|
 |------|---|---|---|---|
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|3|49.7|
+|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|10||
 |klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|3|44.9|
 |klue-roberta-large|klue-roberta-large|KLUE-benchmark-dataset-mrc|10|TBD|
 
