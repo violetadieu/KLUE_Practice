@@ -10,14 +10,15 @@
 <h3>Machine Reading Comprehension<br><br></h3>
 <br>
 
-<h4>MRC, 기계독해 task를 위한 주피터 노트북 파일입니다. 데이터별, 그리고 모델별 성능은 하단 표에 기재할 예정입니다.</h4><br><br>
+<h4>MRC, 기계독해 task를 구현해 모델/tokenizer/데이터/epoch 수의 다양한 조합으로 실험을 진행하였습니다.</h4>
+<h4>기존 klue-benchmark dataset을 제외한 데이터는 출처를 표기할 예정입니다.</h4>
+<h4>제가 실험한 모델/tokenizer 이외의 다른 조합을 실험하고 싶으신 분은 MRCModel 주피터 노트북 파일의 modelName, tokenizerName 변수를 수정하시면 됩니다.</h4><br>
 
-
-|모델|tokenizer|data|epoch|F1-score|
+|모델|tokenizer|data|epoch|em-score|
 |------|---|---|---|---|
-|klue/roberta-large|klue/roberta-large|KLUE-benchmark-dataset-mrc|3|NA|
-|klue/roberta-large|klue/roberta-large|KLUE-benchmark-dataset-mrc|10|NA|
-
+|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|3|TBD|
+|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|3|44.9|
+|klue-roberta-large|klue/roberta-large|KLUE-benchmark-dataset-mrc|10|TBD|
 
 <br>
 <h3>Dialogue State Tracking<br><br></h3>
