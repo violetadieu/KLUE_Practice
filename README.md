@@ -15,7 +15,7 @@
 
 |모델|tokenizer|data|epoch|F1-score|
 |------|---|---|---|---|
-|klue/roberta-large|klue/roberta-large|KLUE-benchmark-dataset-mrc|3|NA|
+|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|3|44.9|
 |klue/roberta-large|klue/roberta-large|KLUE-benchmark-dataset-mrc|10|NA|
 
 
