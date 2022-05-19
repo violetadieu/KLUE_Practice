@@ -17,8 +17,9 @@
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|1|51.3|
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|3|49.7|
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|10|45.0|
-|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|3|48.4|
+|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|1|48.4|
 |klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|3|44.9|
+|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|10|44.4|
 |klue-roberta-large|klue-roberta-large|KLUE-benchmark-dataset-mrc|10|TBD|
 
 <br>
