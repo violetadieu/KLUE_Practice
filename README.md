@@ -22,7 +22,7 @@
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|1|51.3|
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|3|49.7|
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|10|45.0|
-|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|AI-HUB-한국어기계독해-dataset|1|TBD|
+|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|AI-HUB-한국어기계독해-dataset(Normal)|1|TBD|
 |klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|1|48.4|
 |klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|3|44.9|
 |klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|10|44.4|
