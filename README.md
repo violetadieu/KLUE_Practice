@@ -35,7 +35,6 @@
 MRC, 기계독해 task를 구현해 모델/tokenizer/데이터/epoch 수의 다양한 조합으로 실험을 진행하였습니다.
 제가 실험한 모델/tokenizer 이외의 다른 조합을 실험하고 싶으신 분은 MRCModel 주피터 노트북 파일의 modelName, tokenizerName 변수를 수정하시면 됩니다.
 
-<hr>
 
 model : klue-bert-base<br>
 trainData : KLUE-benchmark-dataset-mrc
