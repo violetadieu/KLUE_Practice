@@ -55,7 +55,7 @@ model : klue-bert-base<br>
 trainData : AiHub-한국어기계독해데이터셋-Normal
 |model|tokenizer|train-data|val-data|epoch|em-score|
 |------|---|---|---|---|---|
-|klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|AiHub-한국어기계독해데이터셋-Normal(20%)|1|51.3|
+|klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|AiHub-한국어기계독해데이터셋-Normal(20%)|1|48.9|
 |klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|AiHub-한국어기계독해데이터셋-Normal(20%)|3|54.0|
 <br>
 
