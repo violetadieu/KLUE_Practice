@@ -41,13 +41,13 @@ trainData : KLUE-benchmark-dataset-mrc
   
 |model|tokenizer|train-data|val-data|epoch|em-score|
 |------|---|---|---|---|---|
-|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|1|51.3|
+|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc_dev|1|51.3|
 |klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|AiHub-한국어기계독해데이터셋-Normal|1|32.8|
-|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|3|49.7|
-|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|10|45.0|
-|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|1|48.4|
-|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|3|44.9|
-|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|10|44.4|
+|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc_dev|3|49.7|
+|klue-bert-base|klue-bert-base|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc_dev|10|45.0|
+|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc_dev|1|48.4|
+|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc_dev|3|44.9|
+|klue-bert-base|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc_dev|10|44.4|
 
 <hr>
     
@@ -57,7 +57,7 @@ trainData : AiHub-한국어기계독해데이터셋-Normal
 |------|---|---|---|---|---|
 |klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|AiHub-한국어기계독해데이터셋-Normal(20%)|1|48.9|
 |klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|AiHub-한국어기계독해데이터셋-Normal(20%)|3|48.6|
-|klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|KLUE-benchmark-dataset-mrc|3|33.2|
+|klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|KLUE-benchmark-dataset-mrc_dev|3|TBD|
 <br>
 
 <hr>  
