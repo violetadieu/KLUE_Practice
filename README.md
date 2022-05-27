@@ -59,6 +59,8 @@ trainData : AiHub-한국어기계독해데이터셋-Normal
 |klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|KLUE-benchmark-dataset-mrc_dev|1|35.4|
 |klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|AiHub-한국어기계독해데이터셋-Normal(20%)|3|48.6|
 |klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|KLUE-benchmark-dataset-mrc_dev|3|32.7|
+|klue-bert-base|klue-bert-base|AiHub-한국어기계독해데이터셋-Normal(80%)|AiHub-한국어기계독해데이터셋-Normal(20%)|10|46.8|
+
 <br>
 
 <hr>  
