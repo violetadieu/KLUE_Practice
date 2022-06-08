@@ -70,6 +70,7 @@ model : klue-roberta-large<br>
 trainData : KLUE-benchmark-dataset-mrc
 |model|tokenizer|train-data|val-data|epoch|em-score|
 |------|---|---|---|---|---|
+|klue-roberta-large|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|3|TBD|
 |klue-roberta-large|klue-roberta-large|KLUE-benchmark-dataset-mrc|KLUE-benchmark-dataset-mrc|10|54.0|
 
 <hr>  
